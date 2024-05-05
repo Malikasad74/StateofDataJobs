@@ -11,7 +11,7 @@ But hold on, there's more! Dive deeper into the distribution of positions by com
 
 ## Live Dashboard
 
-<iframe title="StateofDataJobs" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2UzOTU0OTgtMzI3NC00MDE5LThjMTktOTRkYmYzZWY0Y2NkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>
+[Link to StateofDataJobs Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2UzOTU0OTgtMzI3NC00MDE5LThjMTktOTRkYmYzZWY0Y2NkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ## Objectives
 
