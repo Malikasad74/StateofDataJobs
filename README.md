@@ -1,5 +1,5 @@
 
-# Sate Of Data Jobs
+# State Of Data Jobs
 
 # Introduction
 
